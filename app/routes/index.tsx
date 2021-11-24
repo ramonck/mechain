@@ -122,7 +122,7 @@ export default function Index(props: Props) {
       >
         <Toolbar />
         <Typography paragraph>
-          <img src="../img/uploading.png" />
+          <img src="img/uploading.png" />
           Welcome to a new era of backups of your photos, videos, audio files
           all to the blockchain. No matter what happens your files are yours in
           the blockchain and this platform is just making it easier for you to
